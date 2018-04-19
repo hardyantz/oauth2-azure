@@ -1,5 +1,5 @@
 {
-    "name": "thenetworg/oauth2-azure",
+    "name": "hardyantz/oauth2-azure",
     "description": "Azure Active Directory OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TheNetworg\\OAuth2\\Client\\": "src/"
+            "Hardyantz\\OAuth2\\Client\\": "src/"
         }
     }
 }
